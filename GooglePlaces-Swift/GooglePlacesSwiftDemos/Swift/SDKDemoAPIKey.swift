@@ -17,5 +17,4 @@
 // See documentation on getting an API Key for your API Project here:
 // https://developers.google.com/places/ios-sdk/start#get-key
 
-#error("Register for API Key and insert here. Then delete this line.")
-let apiKey = ""
+let apiKey = "AIzaSyBe5dgeOHntKfglfV6ZMfr7FAK3k9fN3yc"
